@@ -259,7 +259,7 @@ jupyter notebook
   <b>如果这个笔记对你有帮助，请给一个star吧！</b>
   <br>
   <br>
-  <a href="https://github.com/enderrcd/note-of-deeplearning">
-    <img src="https://img.shields.io/github/stars/enderrcd/note-of-deeplearning?style=for-the-badge&logo=github" alt="GitHub stars">
+  <a href="https://github.com/enderrcd/note-of-learning-deeplearning">
+    <img src="https://img.shields.io/github/stars/enderrcd/note-of-learning-deeplearning?style=for-the-badge&logo=github" alt="GitHub stars">
   </a>
 </p>
